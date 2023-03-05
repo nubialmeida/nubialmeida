@@ -1,14 +1,16 @@
 # Hey, I'm Núbia Almeida.
 
-<img align="left" height="197em" width="215em" alt="Núbia Almeida" src="https://media.tenor.com/_HwQHDixHnMAAAAC/kitten-cat.gif">
-💼 I am volunteer in the <a href="https://www.instagram.com/espiritosolidario/"> Espiríto Solidário</a> and in the <a href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=false&heroEntityKey=urn%3Ali%3Aorganization%3A88034410&keywords=institui%C3%A7%C3%A3o%20sociedade%20plural&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=84831126-adaf-4966-857a-8c45a8498ef2&sid=TYr/">Instituição Sociedade Plural</a> as mobile developer
+<img align="right" height="197em" width="215em" alt="Núbia Almeida" src="https://media.tenor.com/_HwQHDixHnMAAAAC/kitten-cat.gif">
+<div>
+ 💼 I am volunteer in the <a href="https://www.instagram.com/espiritosolidario/"> Espiríto Solidário</a> and in the <a href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=false&heroEntityKey=urn%3Ali%3Aorganization%3A88034410&keywords=institui%C3%A7%C3%A3o%20sociedade%20plural&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=84831126-adaf-4966-857a-8c45a8498ef2&sid=TYr/">Instituição Sociedade Plural</a> as mobile developer
 <br>
-💻 I'm focused on the data analysis and curious about web and mobile development. <br>
-🎸 I like to play the guitar and games. <br>
-⛺ I love discovering new places, <br>
-🎨 I like to design,<br>
-👥 Always making new friends, <br>
-🏃🏾‍♀️ I like walking, running and workout. <br> <br>
+  💻 I'm focused on the data analysis and curious about web and mobile development. <br>
+  🎸 I like to play the guitar and games. <br>
+  ⛺ I love discovering new places, <br>
+  🎨 I like to design,<br>
+  👥 Always making new friends, <br>
+  🏃 I like walking, running and workout. <br> <br>
+ </div>
 
 <div>
     <a href="https://www.linkedin.com/in/nubialmeida" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
