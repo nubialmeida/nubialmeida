@@ -48,4 +48,4 @@
 </div>
 
 ##
-![Snake animation](https://github.com/nubialmeida/nubialmeida/blob/output/github-contribution-grid-snake.svg)
+
