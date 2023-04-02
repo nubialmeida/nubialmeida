@@ -2,10 +2,10 @@
 
 <img align="right" height="197em" width="213em" alt="Núbia Almeida" src="https://media.tenor.com/_HwQHDixHnMAAAAC/kitten-cat.gif">
 <div>
- 💼 I am volunteer in
+ 💼 I am volunteer in: 
  <ul>
   <li>
-   <a href="https://www.instagram.com/espiritosolidario/"> Espiríto Solidário</a>
+   <a href="https://www.instagram.com/espiritosolidario/"> Espiríto Solidário</a> as volunteer social
   </li>
   <li>
    <a href="https://isitsafe.com.br"> Is It safe?</a> as web developer
