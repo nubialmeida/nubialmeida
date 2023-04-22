@@ -38,9 +38,7 @@
    <img align="center" height="30" width="40" alt="GCP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
    <img align="center" height="30" width="40" alt="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
    <img align="center" height="30" width="40" alt="MongolDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-   <img align="center" height="30" width="40" alt="PySpark" src="https://www.edureka.co/blog/wp-content/uploads/2018/07/PySpark-logo-1.jpeg">
-   <img align="center" height="30" width="40" alt="LookerStudio" src="https://images.impression.co.uk/2022/12/LookerStudio-logo-1024x354-1.jpg?auto=compress%2Cformat>
-   <img align="center" height="30" width="40" alt="PowerBI" src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo-700x394.png">
+   <img align="center" height="30" width="40" alt="PowerBI" src="https://seeklogo.com/images/P/power-bi-icon-logo-E1B451ED39-seeklogo.com.png">
    <img align="center" height="30" width="40" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
    <img align="center" height="30" width="40" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
    <img align="center" height="30" width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
