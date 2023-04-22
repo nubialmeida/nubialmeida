@@ -24,7 +24,6 @@
 
 <div>
     <a href="https://www.linkedin.com/in/nubialmeida" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-    <a href="https://www.instagram.com/mnubialmeida/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     <a href="https://www.cloudskillsboost.google/public_profiles/4753aa99-305d-425f-9883-14a6fee852f1" target="_blank"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 </div>
     
@@ -32,21 +31,21 @@
     
 <div>
     
-   ### I'm currently learning:
+   ### My stacks::
    
    <img align="center" height="30" width="40" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
    <img align="center" height="30" width="40" alt="PythonPandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
    <img align="center" height="30" width="40" alt="GCP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
    <img align="center" height="30" width="40" alt="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
    <img align="center" height="30" width="40" alt="MongolDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-    
-   ### My stacks:
-    
+   <img align="center" height="30" width="40" alt="PySpark" src="https://www.edureka.co/blog/wp-content/uploads/2018/07/PySpark-logo-1.jpeg">
+   <img align="center" height="30" width="40" alt="LookerStudio" src="https://images.impression.co.uk/2022/12/LookerStudio-logo-1024x354-1.jpg?auto=compress%2Cformat>
+   <img align="center" height="30" width="40" alt="PowerBI" src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo-700x394.png">
    <img align="center" height="30" width="40" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
    <img align="center" height="30" width="40" alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
    <img align="center" height="30" width="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
    <img align="center" height="30" width="40" alt="ReactJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-   <img align="center" height="30" width="40" alt="NodeJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" >
+      
    </div>  
 
 ##
